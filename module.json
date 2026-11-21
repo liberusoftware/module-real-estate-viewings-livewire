@@ -3,7 +3,7 @@
   "name": "real-estate-viewings-livewire",
   "display_name": "Real Estate Viewings Livewire",
   "description": "Livewire component for team-scoped viewing lists.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\RealEstate\\ViewingsLivewire\\ViewingsLivewireServiceProvider",
   "requires": {

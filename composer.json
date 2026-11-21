@@ -2,7 +2,7 @@
   "name": "liberusoftware/real-estate-viewings-livewire",
   "description": "Livewire 4 adapter for real-estate viewings.",
   "type": "liberu-module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "require": {
     "php": "^8.5",
